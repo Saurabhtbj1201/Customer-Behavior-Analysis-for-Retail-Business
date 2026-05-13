@@ -51,6 +51,16 @@ This project helps solve these problems using Data Analytics and Business Intell
 
 ---
 
+## 🔗 Project Links
+
+🌐 **Project Details:**  
+[Click Here for More Details](https://www.projects.gu-saurabh.site/project/d3b2b83c-e370-4d7b-b00a-f94711a445c7)
+
+📊 **Power BI Dashboard:**  
+[Click Here to View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAwMjdiNjQtNWE5Yy00YTg5LWFhMjgtZDRhNjVmNjJmMGE4IiwidCI6ImY5NTNlNDZmLTNmNjUtNGI0Ny1iYWNiLTEyMzg4YWVlMTNlOCJ9)
+
+---
+
 # 🧠 Project Objectives
 
 - Perform Data Cleaning using Python
